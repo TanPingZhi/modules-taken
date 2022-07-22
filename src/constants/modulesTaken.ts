@@ -21,16 +21,6 @@ export const ay2122s2 = [
         moduleName: 'Physics IIE',
         website: 'https://nusmods.com/modules/PC1432/physics-iie'
     },
-    // {
-    //     moduleCode: 'IS1103',
-    //     moduleName: 'Ethics in Computing',
-    //     website: ''
-    // },
-    // {
-    //     moduleCode: 'RVC1000',
-    //     moduleName: 'How in the world do we get along?',
-    //     website: ''
-    // },
 ] as Module[]
 
 export const ay2122s1 = [
@@ -49,16 +39,6 @@ export const ay2122s1 = [
         moduleName: "Linear Algebra I",
         website: 'https://nusmods.com/modules/MA2001/linear-algebra-i'
     },
-    // {
-    //     moduleCode: "ES2660",
-    //     moduleName: "Communicating in the Information Age",
-    //     website: ''
-    // },
-    // {
-    //     moduleCode: "RVN1000",
-    //     moduleName: "Engaging Communities in Sustainability",
-    //     website: ''
-    // }
 ] as Module[]
 
 export const preuni = [
