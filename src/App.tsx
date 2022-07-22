@@ -13,8 +13,8 @@ function App() {
                     only technical modules listed
                 </Typography>
             </Box>
-            <Semester name="AY21/22 Sem 2" modules={ay2122s2}/>
-            <Semester name="AY21/22 Sem 1" modules={ay2122s1}/>
+            <Semester name="Year 1 Sem 2 (AY21/22)" modules={ay2122s2}/>
+            <Semester name="Year 1 Sem 1 (AY21/22)" modules={ay2122s1}/>
             <Semester name="Pre Uni" modules={preuni}/>
         </>
     );
