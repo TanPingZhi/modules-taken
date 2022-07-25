@@ -40,12 +40,3 @@ export const ay2122s1 = [
         website: 'https://nusmods.com/modules/MA2001/linear-algebra-i'
     },
 ] as Module[]
-
-export const preuni = [
-    {
-        moduleCode: 'CS1010X',
-        moduleName: 'Programming Methodology',
-        website: 'https://nusmods.com/modules/CS1010X/programming-methodology'
-    },
-
-]

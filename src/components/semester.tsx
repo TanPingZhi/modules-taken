@@ -10,7 +10,7 @@ export interface Module {
 export const Semester = ({name, modules}: { name: string, modules: Module[] }) => {
     return (
         <>
-            <Box sx={{width: '100%', maxWidth: 500, m: 2}}>
+            <Box sx={{width: '100%', maxWidth: 500, m: 1}}>
                 <Typography variant="h5" gutterBottom component="div">
                     {name}
                 </Typography>
